@@ -142,5 +142,6 @@ html {
 @media (max-height: 500px) {
   .box {
     height: 80vh;
+    /* font-weight: 800; */
   }
 }
